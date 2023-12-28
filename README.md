@@ -50,10 +50,11 @@ It shows the distance of a random variable from its mean. It is calcualted as
 # Program :
 ## Developed by:SHARON STEFFANI F
 ## Reference number:23007577
-![Screenshot 2023-12-28 101856](https://github.com/Sharonsteffani2005/Mean-and-Variance/assets/144979934/5ee5fc72-cc99-45a9-b44a-93dcac287312)
+![Screenshot 2023-12-28 103126](https://github.com/Sharonsteffani2005/Mean-and-Variance/assets/144979934/2f44eb68-5da8-4589-a2ad-155e40002531)
+
 
 # Output : 
-![Screenshot 2023-12-28 101903](https://github.com/Sharonsteffani2005/Mean-and-Variance/assets/144979934/4db341f9-326b-45b5-bf09-57e49a21e052)
+![Screenshot 2023-12-28 103132](https://github.com/Sharonsteffani2005/Mean-and-Variance/assets/144979934/5a4ac7cb-bcfa-4af9-ae00-58438c23e988)
 
 # Results :
 The mean and variance of arrivals of objects from feeder using probability distribution are calculated.
